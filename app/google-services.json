@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225015298444",
+    "project_id": "mealcraft-495db",
+    "storage_bucket": "mealcraft-495db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225015298444:android:8a52e32189b962e013fea9",
+        "android_client_info": {
+          "package_name": "com.cris.mealcraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqzSW5kVgXzu34XYPb2SD9jP5x-8PtFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225015298444:android:81839044afed7a2213fea9",
+        "android_client_info": {
+          "package_name": "com.example.comida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqzSW5kVgXzu34XYPb2SD9jP5x-8PtFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
