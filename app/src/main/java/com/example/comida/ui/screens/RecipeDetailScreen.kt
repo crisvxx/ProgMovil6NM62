@@ -40,8 +40,9 @@ fun RecipeDetailScreen(
     onBack: () -> Unit
 ) {
     val recipeViewModel: RecipeViewModel = viewModel()
-    val allRecipes by recipeViewModel.recipes.collectAsState()+
-            .
+    val allRecipes by recipeViewModel.recipes.collectAsState()
+
+    // ⭐ 1. Observamos los comentarios de ESTA receta
     val reviews by recipeViewModel.currentReviews.collectAsState()
 
     // Buscamos la receta
